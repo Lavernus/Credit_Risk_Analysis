@@ -1,4 +1,4 @@
-# Credit Risk Analysis
+# Credit Risk Prediction Analysis
 ## Overview
 This analysis will be performed on credit card credit from a peer-to-peer lending services company. The client requested a model that would predict the risk of a loan.
 ### Purpose
